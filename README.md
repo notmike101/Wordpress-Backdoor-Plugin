@@ -1,7 +1,7 @@
 # Wordpress Backdoor Plugin
 
 **Contributors**:
-* @IRDeNial
+* IRDeNial
 
 **Tested On**:
 * Version 4.5.3
