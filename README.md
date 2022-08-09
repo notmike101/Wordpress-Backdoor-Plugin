@@ -1,9 +1,13 @@
 # Wordpress Backdoor Plugin
 
-**Contributors**:
+## Heads up
+
+This project is not maintained and likely won't be for quite some time since I'm fairly busy with other projects. If you want to update the plugin to work if something is broken, feel free to submit a PR.
+
+## Contributors
 * IRDeNial
 
-**Tested On**:
+## Tested On
 * Version 4.5.3
 * Version 4.5.2
 * Version 4.5.1
